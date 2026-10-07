@@ -1,0 +1,487 @@
+name,set_name,tcgdex_id,raw_price_usd,raw_sample_count,raw_confidence,psa9_price_usd,psa9_sample_count,psa9_confidence,psa10_price_usd,psa10_sample_count,psa10_confidence
+Mega Charizard X ex,Phantasmal Flames,me02-125,710.48,317,medium,757.5,789,high,2022,1810,high
+Palkia,Celebrations,cel25-4,210,184,low,195.5,768,high,549.99,1270,high
+Mew ex,Paldean Fates,sv04.5-232,800,110,medium,871.5,864,high,3100,874,high
+Team Rocket's Mewtwo ex,Destined Rivals,sv10-231,474.88,130,medium,422.5,407,high,1162.99,982,high
+Charizard ex,Obsidian Flames,sv03-223,110,200,medium,143.75,678,high,735,495,high
+Charmander,SVP Black Star Promos,svp-044,79.75,163,medium,100.25,622,high,622.5,337,high
+Mew ex,SVP Black Star Promos,svp-053,102,145,high,105,716,high,850,304,high
+Moltres & Zapdos & Articuno GX,SM Black Star Promos,smp-SM210,229.75,200,medium,168,434,high,432.5,828,high
+Misty's Psyduck,Destined Rivals,sv10-193,69,100,medium,79.99,766,high,405,378,high
+Mega Lucario ex,Mega Evolution,me01-179,191.75,98,medium,173.75,391,high,390,863,high
+Groudon,Celebrations,cel25-17,140.64,69,medium,110,546,high,343.75,661,high
+Umbreon ex,Prismatic Evolutions,sv08.5-161,1187.5,93,medium,1462.49,578,high,5450,570,high
+Squirtle,Stellar Crown,sv07-148,110,91,medium,123.05,583,high,402.5,547,high
+Psyduck,Ascended Heroes,me02.5-226,97.25,41,medium,80.38,349,high,330,847,high
+Pikachu with Grey Felt Hat,SVP Black Star Promos,svp-085,1115.5,111,medium,982.5,484,high,2865,610,high
+Magikarp,Paldea Evolved,sv02-203,522.5,91,medium,507.5,601,high,4025,308,medium
+Magneton,SVP Black Star Promos,svp-159,20.6,105,low,27.99,491,high,129.4,580,high
+Charizard ex,Paldean Fates,sv04.5-234,250,122,medium,273.94,452,high,811,507,high
+Mew,Crown Zenith Galarian Gallery,swsh12.5gg-GG10,77.5,124,high,81,404,high,564,523,high
+Mega Gengar ex,Ascended Heroes,me02.5-284,922.5,66,high,882.5,360,high,2100,650,high
+Pikachu ex,Surging Sparks,sv08-238,277.5,93,medium,254.5,427,high,925,505,high
+Mewtwo GX,Shining Legends,sm3.5-78,1249.5,47,medium,1575.5,384,high,9150,241,high
+Eevee,Twilight Masquerade,sv06-188,130,74,low,97.5,443,high,345,481,high
+Mega Latias ex,Mega Evolution,me01-181,83.25,60,medium,80,232,medium,220,748,high
+Groudon,Paradox Rift,sv04-199,112.62,66,low,118.7,459,high,655,459,high
+Kingdra ex,SVP Black Star Promos,svp-131,95.27,84,low,93,397,high,370,523,high
+Cynthia's Garchomp ex,Destined Rivals,sv10-232,215.25,66,medium,199.25,264,medium,466,621,high
+Snorlax,Jungle,base2-11,180,83,low,2021.89,137,medium,15000,7,low
+Charizard ex,151,sv03.5-199,402.5,291,medium,395,447,high,1487.5,323,high
+Meowth,Wizards Black Star Promos,basep-10,84,216,high,223,37,low,265,745,medium
+Zekrom ex,Black Bolt,sv10.5b-172,508,64,medium,507,348,high,1574.99,536,high
+Reshiram ex,White Flare,sv10.5w-173,719.38,72,medium,460,321,high,1350,552,high
+Mega Gardevoir ex,Mega Evolution,me01-178,152.8,113,medium,172.5,246,medium,379.99,610,high
+Gastly,Temporal Forces,sv05-177,172.15,66,low,110,460,high,620,383,high
+Pikachu ex,Surging Sparks,sv08-247,102.5,62,medium,95,360,high,353,438,high
+Ethan's Ho-Oh ex,Destined Rivals,sv10-230,162.5,66,medium,151.38,267,medium,399.99,547,high
+Greninja ex,Twilight Masquerade,sv06-214,312.5,68,medium,298,343,high,770,460,medium
+Team Rocket's Moltres ex,Destined Rivals,sv10-229,92.5,104,medium,94,249,medium,307.5,562,high
+Pikachu ex,Prismatic Evolutions,sv08.5-179,49,60,medium,79.5,362,high,399.5,381,high
+Blastoise ex,151,sv03.5-200,147.5,189,medium,157.25,408,high,562.5,337,medium
+Mewtwo & Mew GX,SM Black Star Promos,smp-SM191,570.5,70,low,483.39,268,medium,3224.5,494,high
+Pikachu ex,Ascended Heroes,me02.5-276,1216,70,high,860,274,medium,2250,538,high
+Chansey,Twilight Masquerade,sv06-187,60.5,58,medium,56.95,381,high,324.98,397,high
+Gengar EX,Phantom Forces,xy4-34,137.25,47,low,174.74,211,medium,685,415,high
+Gengar,Lost Origin,swsh11-TG06,330.98,110,low,95,435,high,600,257,high
+Lillie's Clefairy ex,Journey Together,sv09-184,94.75,88,medium,103.63,380,high,384.99,349,high
+Moltres,Fossil,base3-12,56.5,76,medium,649.5,200,medium,3949.5,28,medium
+Mega Charizard X ex,Phantasmal Flames,me02-130,457,146,medium,317.5,475,high,2500,193,medium
+Lugia V,Silver Tempest,swsh12-186,630,89,medium,522.5,273,medium,1325,456,high
+M Charizard EX,Evolutions,xy12-101,163.75,20,low,146.97,281,medium,636.5,334,medium
+Gengar ex,Temporal Forces,sv05-193,85,66,medium,81.38,331,high,375.21,382,high
+___________'s Pikachu,Wizards Black Star Promos,basep-24,53.5,53,medium,69,237,medium,224.99,458,high
+Giratina VSTAR,Crown Zenith Galarian Gallery,swsh12.5gg-GG69,318.53,114,high,295,284,medium,630,451,high
+Mega Lucario ex,Mega Evolution,me01-188,187.07,73,medium,235.9,365,high,725,308,medium
+Pikachu & Zekrom GX,SM Black Star Promos,smp-SM168,245.09,41,medium,377.59,276,medium,3271.68,357,high
+Gengar VMAX,Fusion Strike,swsh8-271,736.25,117,medium,903,278,medium,2392,382,high
+Suicune V,Crown Zenith Galarian Gallery,swsh12.5gg-GG38,70,52,medium,58,288,medium,210,411,medium
+Sylveon ex,Prismatic Evolutions,sv08.5-156,360.62,58,medium,492,359,high,1549.99,320,high
+Charizard,Dragon,ex3-100,392.5,83,medium,2025,164,medium,18350,59,low
+Venusaur ex,151,sv03.5-198,111.25,144,medium,116.21,329,high,474.92,304,medium
+Gardevoir ex,Paldean Fates,sv04.5-233,173.39,68,medium,159.97,340,high,402.5,318,high
+Zapdos,Fossil,base3-15,52.5,72,medium,429.05,197,medium,3500,37,medium
+Pikachu,SM Black Star Promos,smp-SM162,190.83,45,medium,228.75,284,medium,1935,177,high
+Pikachu,151,sv03.5-173,103.5,91,medium,101.25,320,high,550,310,medium
+Greninja ex,SVP Black Star Promos,svp-132,128.92,102,medium,97.75,342,high,450,312,high
+Zapdos ex,151,sv03.5-202,94.5,104,medium,106.5,317,high,420,285,medium
+Espeon ex,Prismatic Evolutions,sv08.5-155,275,34,medium,284.88,348,high,1199.99,270,low
+Leafeon ex,Prismatic Evolutions,sv08.5-144,287.8,64,medium,306.22,296,medium,819.85,328,medium
+Charmeleon,151,sv03.5-169,87.5,87,medium,84,322,high,489.5,263,medium
+Darkrai VSTAR,Crown Zenith Galarian Gallery,swsh12.5gg-GG50,90,69,medium,107.5,195,medium,290,437,high
+Rayquaza VMAX,Silver Tempest,swsh12-TG20,226.25,85,medium,211.51,135,medium,409.5,490,high
+Roaring Moon ex,Prismatic Evolutions,sv08.5-162,212.5,35,medium,145.5,276,medium,780,311,high
+Glaceon ex,Prismatic Evolutions,sv08.5-150,225,50,low,240,295,medium,725,299,medium
+Shining Mew,Shining Legends,sm3.5-40,226.25,42,medium,246.25,277,medium,1487.49,262,high
+Mega Kangaskhan ex,Mega Evolution,me01-182,33.78,64,medium,52.98,138,medium,143.64,483,high
+Milotic ex,Surging Sparks,sv08-237,135.31,55,medium,99.25,263,medium,300,335,high
+Charizard VSTAR,Brilliant Stars,swsh9-174,79.45,57,high,83,216,medium,224.5,370,high
+Shining Rayquaza,Shining Legends,sm3.5-56,377.5,34,medium,220,269,medium,1398.95,254,high
+Dark Raichu,Team Rocket,base5-83,185.27,82,medium,860.43,128,medium,9000,17,medium
+Scyther,Jungle,base2-10,68.62,42,medium,604.95,137,medium,6700,27,low
+Flareon ex,Prismatic Evolutions,sv08.5-146,150,33,low,184.5,290,medium,655,282,medium
+Umbreon VMAX,Evolving Skies,swsh7-215,2805,103,high,2254.5,160,medium,4250,417,high
+Leafeon VSTAR,Crown Zenith Galarian Gallery,swsh12.5gg-GG35,62.5,48,low,81.94,197,medium,212.73,389,medium
+Deoxys VMAX,Crown Zenith Galarian Gallery,swsh12.5gg-GG45,53,78,low,67.5,131,medium,170,472,high
+Muk,Fossil,base3-13,20.09,61,medium,67.98,210,medium,405,67,medium
+Mew,Celebrations,cel25-25,59.36,60,low,65.5,219,medium,206.98,372,high
+Charizard VSTAR,SWSH Black Star Promos,swshp-SWSH262,117.47,219,medium,129.21,365,high,1025,98,high
+Latias ex,Surging Sparks,sv08-239,124.47,83,low,147.12,242,medium,529.99,325,medium
+Umbreon VMAX,Brilliant Stars,swsh9-TG23,92,78,high,93.25,116,medium,259,472,high
+Vaporeon ex,Prismatic Evolutions,sv08.5-149,226.25,56,medium,238,285,medium,1072,256,medium
+Charizard V,Brilliant Stars,swsh9-154,300,42,medium,299,210,medium,845,339,high
+Seismitoad,Black Bolt,sv10.5b-105,193.89,60,medium,250.75,329,high,2050,176,medium
+Rayquaza VMAX,Evolving Skies,swsh7-218,1048.12,101,low,1283.5,165,medium,2821.62,384,high
+Team Rocket's Nidoking ex,Destined Rivals,sv10-233,139.25,38,low,97.5,150,medium,279.99,386,high
+Jolteon ex,Prismatic Evolutions,sv08.5-153,165.75,38,medium,147.75,230,medium,657,280,medium
+Persian,Shrouded Fable,sv06.5-078,163.8,38,low,63.3,270,medium,325,270,high
+Alakazam ex,151,sv03.5-201,74.72,79,medium,80,268,medium,350,228,medium
+Reshiram ex,White Flare,sv10.5w-166,143.75,60,medium,198.75,238,medium,466.06,292,high
+Pikachu VMAX,Vivid Voltage,swsh4-188,142.5,52,medium,150.08,152,medium,328,370,high
+Bulbasaur,151,sv03.5-166,102.5,86,medium,84.5,280,medium,349.99,220,high
+Eevee ex,Prismatic Evolutions,sv08.5-167,132.89,54,low,143.01,245,medium,589.5,266,high
+Giratina V,Lost Origin,swsh11-186,555,52,medium,900,206,medium,3600,262,high
+Espeon VMAX,Fusion Strike,swsh8-270,289.98,52,medium,287.5,205,medium,686,301,medium
+Victini,Black Bolt,sv10.5b-171,524.25,47,low,525.75,195,medium,1450,319,high
+Celebi V,Fusion Strike,swsh8-245,71,25,medium,74,232,medium,348.5,243,high
+Rayquaza V,Evolving Skies,swsh7-194,300,31,low,497.48,194,medium,1380,292,medium
+Mega Gardevoir ex,Mega Evolution,me01-187,188.75,56,low,193.75,261,medium,630,174,medium
+Starmie V,Astral Radiance,swsh10-TG13,101.5,65,medium,112.5,181,medium,302,288,medium
+M Blastoise EX,Evolutions,xy12-102,58.5,5,low,64.5,205,medium,198.5,232,medium
+Charizard V,SWSH Black Star Promos,swshp-SWSH260,41.75,157,low,74,299,medium,638.81,121,medium
+Tyranitar,Paldea Evolved,sv02-222,64.25,27,high,90,251,medium,662.94,170,medium
+Pikachu VMAX,Lost Origin,swsh11-TG17,107.5,56,low,119.99,146,medium,317.5,336,high
+Dragonite V,Evolving Skies,swsh7-192,456.14,36,medium,477.5,189,medium,1137.49,285,high
+Psyduck,151,sv03.5-175,78.75,56,medium,65.75,228,medium,455,233,medium
+Mega Dragonite ex,Ascended Heroes,me02.5-290,788.75,38,medium,627.5,148,medium,1410,339,high
+Eevee & Snorlax GX,SM Black Star Promos,smp-SM169,268.75,33,low,272,195,medium,2260,254,medium
+Victini,White Flare,sv10.5w-172,530,26,medium,542.5,195,medium,1485,274,high
+Origin Forme Palkia VSTAR,Crown Zenith Galarian Gallery,swsh12.5gg-GG67,140,69,low,58.5,185,medium,500,278,high
+Origin Forme Dialga VSTAR,Crown Zenith Galarian Gallery,swsh12.5gg-GG68,95,137,medium,112,157,medium,327.44,301,high
+Dark Charizard,Team Rocket,base5-21,105.89,97,medium,286.57,76,medium,3450,22,medium
+Umbreon V,Evolving Skies,swsh7-189,400,28,medium,331.88,171,medium,1126.5,266,high
+Team Rocket's Mewtwo ex,Ascended Heroes,me02.5-281,293,29,high,325,121,medium,715,334,high
+Umbreon,Undaunted,hgss3-86,1425,46,medium,3825.78,94,medium,61600,11,low
+Meowth ex,Perfect Order,me03-121,144.02,27,medium,127.5,139,medium,322.49,300,high
+Garchomp & Giratina GX,SM Black Star Promos,smp-SM193,74,22,medium,147.5,130,medium,880,289,high
+M Charizard EX,Flashfire,xy2-69,170,15,medium,337.5,99,medium,2127.5,138,medium
+Houndoom,Shrouded Fable,sv06.5-066,33.17,35,medium,56.14,191,medium,242.5,223,high
+Mew V,Fusion Strike,swsh8-251,122.5,36,medium,112.16,161,medium,420,221,high
+Umbreon V,Brilliant Stars,swsh9-TG22,88,45,medium,75.75,153,medium,256.25,240,high
+Special Delivery Charizard,SWSH Black Star Promos,swshp-SWSH075,199.67,101,high,217.19,226,medium,1825,91,medium
+Keldeo ex,White Flare,sv10.5w-167,61.9,35,low,55.2,137,medium,198.5,261,high
+Sylveon VMAX,Evolving Skies,swsh7-212,392.5,18,high,398.92,75,medium,640,325,high
+M Charizard EX,Generations,g1-12,149.22,39,medium,247.3,96,medium,1699.99,38,low
+Sylveon V,Evolving Skies,swsh7-184,161.5,26,medium,163.25,137,medium,430.5,243,high
+M Rayquaza EX,Ancient Origins,xy7-98,900,30,medium,2532.5,106,medium,13550,85,medium
+Aerodactyl V,Lost Origin,swsh11-180,224.99,31,low,185,156,medium,550,217,high
+Pikachu,Paldean Fates,sv04.5-131,427.5,18,medium,103.25,194,medium,789,144,medium
+Gengar EX,Phantom Forces,xy4-114,642.86,42,medium,3100,52,medium,31000,11,low
+Dragonair,151,sv03.5-181,39,43,high,48.94,202,medium,336.69,166,high
+Pikachu,Wizards Black Star Promos,basep-27,160.62,56,medium,73.24,114,medium,310.51,214,high
+Raichu,Paldea Evolved,sv02-211,108.15,32,medium,107,195,medium,808,146,medium
+Espeon V,Evolving Skies,swsh7-180,242.5,26,high,221.41,137,medium,500,220,high
+Pikachu ex,Ascended Heroes,me02.5-277,350,43,high,328,147,medium,883,224,high
+Arceus V,Brilliant Stars,swsh9-166,49.99,28,low,68.97,127,medium,205,239,high
+Vileplume,Jungle,base2-15,75,29,low,322,89,medium,1469.69,12,low
+Iron Crown ex,Temporal Forces,sv05-206,52.48,29,low,50.15,143,medium,177.5,235,high
+Glaceon VMAX,Evolving Skies,swsh7-209,270.5,48,high,297,71,medium,543.26,302,high
+Dark Machamp,Team Rocket,base5-10,90,43,low,350,122,medium,3400,17,low
+Raging Bolt ex,Prismatic Evolutions,sv08.5-166,72.47,35,low,53.5,161,medium,245,203,medium
+Mega Charizard Y ex,Ascended Heroes,me02.5-294,348.5,42,medium,362.5,183,medium,2194.67,158,high
+Mimikyu V,Brilliant Stars,swsh9-TG16,68.22,39,medium,95,138,medium,352.5,229,high
+Charizard δ,Crystal Guardians,ex14-4,485.2,43,medium,1825,56,medium,21347.5,5,low
+Pikachu & Zekrom GX,Team Up,sm9-33,90,47,low,106.97,145,medium,692.98,177,high
+Altaria ex,Paradox Rift,sv04-253,65.75,23,medium,63.64,182,medium,300,133,medium
+Gyarados EX,BREAKpoint,xy9-123,250,14,low,435,140,medium,4510.06,62,medium
+Surfing Pikachu,Wizards Black Star Promos,basep-28,137.65,49,medium,174.97,176,medium,884.8,61,medium
+Celebi & Venusaur GX,SM Black Star Promos,smp-SM167,507.5,30,low,116.38,152,medium,975,156,medium
+Mewtwo V,Pokémon GO,swsh10.5-072,185.5,27,low,73.62,119,medium,339.99,197,medium
+Dark Slowbro,Team Rocket,base5-12,70.66,47,high,317.57,95,medium,3551,29,medium
+Sawsbuck,Temporal Forces,sv05-166,80.75,16,medium,53.5,146,medium,287,184,medium
+Morpeko,Paradox Rift,sv04-206,27.75,30,medium,61.97,135,medium,276.72,193,high
+Chi-Yu ex,Paldea Evolved,sv02-259,48.75,22,medium,60,105,medium,204.7,232,high
+Snorlax,Chilling Reign,swsh6-224,116,30,medium,143.9,73,medium,325,261,high
+Shining Tyranitar,Neo Destiny,neo4-113,1705,19,low,2125,83,medium,10900,28,medium
+Shining Charizard,Neo Destiny,neo4-107,1749.34,33,medium,5450,54,medium,20450,11,medium
+Eevee,Wizards Black Star Promos,basep-11,48.34,46,medium,158.75,80,medium,1389.5,48,high
+Shining Lugia,SM Black Star Promos,smp-SM82,100.5,22,medium,238.57,139,medium,2599.99,64,medium
+Entei Star,Unseen Forces,ex10-113,996.25,8,low,2650,141,medium,15250,20,medium
+Dragonite,Fossil,base3-19,40.72,33,medium,132.5,81,medium,1175,47,high
+Raikou Star,Unseen Forces,ex10-114,9499.98,6,low,2601,142,medium,13800,42,medium
+Rayquaza ex,Dragon,ex3-97,612.5,19,medium,3174.5,66,medium,20133.51,25,medium
+Flareon EX,Generations,g1-RC6,73,24,medium,207.75,80,medium,1942.5,10,low
+Charizard & Braixen GX,SM Black Star Promos,smp-SM230,420,18,medium,126.12,116,medium,1299.99,167,medium
+Garchomp V,Astral Radiance,swsh10-TG23,79.5,32,low,75.5,102,medium,210,184,high
+Rayquaza VMAX,Evolving Skies,swsh7-217,115,32,high,120,45,low,350,254,high
+Mewtwo ex,Ruby & Sapphire,ex1-101,239,18,low,3249.5,37,low,30749.5,8,low
+Gouging Fire ex,Temporal Forces,sv05-204,35.42,68,high,31,110,medium,158,188,medium
+Espeon,Undaunted,hgss3-81,975,39,medium,2069,76,medium,15748,8,low
+Magikarp,XY Black Star Promos,xyp-XY143,140,22,low,228.5,110,medium,2150,46,medium
+Umbreon VMAX,Evolving Skies,swsh7-214,67,24,medium,91.5,51,medium,239.99,241,high
+Shining Mewtwo,Neo Destiny,neo4-109,1300,25,low,6518.05,55,medium,15050,19,low
+Tyranitar,Neo Discovery,neo2-12,81,29,medium,960.5,76,medium,3995,21,low
+Mew VMAX,Fusion Strike,swsh8-268,70.7,24,medium,88.28,69,medium,322,218,medium
+Origin Forme Palkia V,Astral Radiance,swsh10-167,117.5,31,low,103.75,91,medium,341.3,181,medium
+Shining Celebi,Neo Destiny,neo4-106,765.5,24,low,1218.78,71,medium,4650,26,low
+Suicune,Neo Revelation,neo3-14,605,29,medium,1850.5,34,low,18100,5,low
+Venusaur & Snivy GX,SM Black Star Promos,smp-SM229,89.25,15,low,129.75,87,medium,646.11,167,high
+Duskull,Shrouded Fable,sv06.5-068,43.49,19,medium,50,111,medium,240,160,high
+Marill,Paldea Evolved,sv02-204,35,17,high,87.47,136,medium,485,83,medium
+Morty's Conviction,Temporal Forces,sv05-211,79,25,low,77.5,129,medium,364.5,125,high
+Pikachu,SWSH Black Star Promos,swshp-SWSH020,139.91,19,low,110,105,medium,825,128,medium
+M Gengar-EX,XY Black Star Promos,xyp-XY166,231.25,24,low,857.5,36,low,4316,11,low
+Mew,Triumphant,hgss4-97,1564.51,21,medium,1994,76,medium,20020,24,low
+Mega Dragonite ex,Ascended Heroes,me02.5-295,275,13,low,230.25,172,medium,1350,52,medium
+Gholdengo ex,Prismatic Evolutions,sv08.5-164,65,19,low,39.4,112,medium,208.25,142,high
+Alakazam EX,Fates Collide,xy10-125,362.5,10,low,545.5,75,medium,5900,43,high
+M Gyarados EX,BREAKpoint,xy9-115,80.75,10,low,239.5,85,medium,1476.17,72,medium
+Dark Vileplume,Team Rocket,base5-13,118.88,28,low,196.25,85,medium,1837.62,8,low
+Snorlax,Paldean Fates,sv04.5-202,56.5,18,medium,65,125,medium,399,122,medium
+Sylveon EX,Generations,g1-RC21,79,24,medium,254.15,60,medium,2130,14,low
+Gengar,Legend Maker,ex12-5,140,13,low,789,54,medium,9250,15,medium
+Pikachu,Cosmic Eclipse,sm12-241,962.81,42,low,294.95,132,medium,2185,61,medium
+Drowzee,Scarlet & Violet,sv01-210,88.75,52,medium,77.17,157,medium,905,71,high
+Sylveon V,Brilliant Stars,swsh9-TG14,69.38,21,low,77.5,90,medium,212.25,150,medium
+Gyarados,Ancient Origins,xy7-21,50,11,low,269,75,medium,2955.33,20,medium
+Special Delivery Pikachu,SWSH Black Star Promos,swshp-SWSH074,477.5,34,medium,513.39,152,medium,3600,40,high
+Gengar ex,FireRed & LeafGreen,ex6-108,2055,24,medium,7250,33,low,23025,8,low
+Cool Porygon,Wizards Black Star Promos,basep-15,71.62,19,medium,201.22,92,medium,725,19,low
+Shining Kabutops,Neo Destiny,neo4-108,573.12,15,low,1074.5,63,medium,5000,27,medium
+Snorlax,Jungle,base2-27,75.5,11,medium,275.8,50,medium,1989.38,28,high
+Primal Kyogre EX,Ancient Origins,xy7-96,242.5,18,medium,729.38,73,medium,5241.08,40,low
+Primal Groudon EX,Ancient Origins,xy7-97,229.99,13,low,945.41,63,medium,3750.35,75,high
+Venusaur EX,XY Black Star Promos,xyp-XY123,136.55,27,medium,932,28,low,6970,6,low
+Fuecoco,Paldea Evolved,sv02-201,59.99,12,low,69.38,96,medium,302,96,medium
+Shining Raichu,Neo Destiny,neo4-111,425,13,low,1225,48,low,5201.99,17,low
+Shining Noctowl,Neo Destiny,neo4-110,265,7,low,792.85,54,medium,2800,16,low
+Oshawott,White Flare,sv10.5w-105,76.5,21,high,89.5,124,medium,903.5,76,medium
+Flareon EX,Generations,g1-RC28,265,52,medium,597,65,medium,810,10,low
+Mewtwo & Mew GX,Unified Minds,sm11-71,146,25,medium,209.5,80,medium,549.5,117,high
+Lugia EX,Ancient Origins,xy7-94,179.99,14,low,730.77,60,medium,4882.05,54,medium
+Charizard-GX,Yellow A Alternate,sma-SV49,1075,53,medium,302.26,108,medium,1480,102,medium
+Shining Steelix,Neo Destiny,neo4-112,398.47,10,low,805.96,53,medium,2550,20,low
+M Mewtwo EX,BREAKthrough,xy8-159,100,6,low,202.5,65,medium,2137.5,49,low
+Pikachu V,SWSH Black Star Promos,swshp-SWSH145,87.5,44,high,104.78,109,medium,778.5,52,medium
+Dwebble,Black Bolt,sv10.5b-129,49.86,22,low,95,120,medium,635,68,medium
+Charizard ex,FireRed & LeafGreen,ex6-105,600,19,medium,4787.51,45,low,45655,7,low
+M Mewtwo EX,BREAKthrough,xy8-160,100.78,10,low,317.5,61,medium,2151.84,51,medium
+M Gardevoir EX,Steam Siege,xy11-112,46.1,16,medium,84.41,76,medium,510,98,low
+Gengar & Mimikyu GX,Team Up,sm9-53,288.5,42,medium,420.11,99,medium,3000,78,medium
+Dragonite ex,Dragon,ex3-90,226.88,10,low,2525,43,low,20280.5,7,medium
+Flareon VMAX,SWSH Black Star Promos,swshp-SWSH180,79.94,24,medium,80,127,medium,581.4,55,high
+Flareon Star,Power Keepers,ex16-100,1054.9,12,low,3782.3,34,low,4652.98,10,low
+Snorlax,Wizards Black Star Promos,basep-49,1084.75,19,low,987.5,64,medium,4700,23,low
+Lillie's Clefairy ex,Ascended Heroes,me02.5-280,187.97,15,medium,160,50,medium,360,148,high
+Skyla,BREAKpoint,xy9-122,76.34,6,medium,98.75,82,medium,424.99,73,medium
+Blastoise δ,Crystal Guardians,ex14-2,123.85,13,medium,674.5,36,low,6064.36,9,medium
+Dark Dragonite,Team Rocket,base5-22,153.75,24,medium,134.25,74,medium,1130.53,20,medium
+Sprigatito,Paldea Evolved,sv02-196,46.14,18,medium,42,77,medium,394.99,81,medium
+Haxorus,Black Bolt,sv10.5b-147,217.75,10,low,60,71,medium,400,114,medium
+Celebi Star,Crystal Guardians,ex14-100,1225,15,low,4712.26,30,low,12475,8,low
+Jolteon Star,Power Keepers,ex16-101,2400,14,low,5375,44,low,37850,5,low
+Umbreon-GX,Yellow A Alternate,sma-SV69,356.5,31,medium,242.75,91,medium,720,94,high
+M Gengar EX,Phantom Forces,xy4-35,101.12,13,low,470.5,27,low,1870,10,low
+Mega Zygarde ex,Perfect Order,me03-124,123.25,19,low,141.75,94,medium,599.99,82,high
+Umbreon,Prismatic Evolutions,sv08.5-059,117.5,29,medium,68.16,94,medium,512.69,71,medium
+Latias ex,Dragon,ex3-93,318.75,12,low,1492.49,42,low,5724.57,15,low
+Umbreon & Darkrai GX,Unified Minds,sm11-125,276.94,15,medium,130.25,61,medium,797.71,106,medium
+Erika's Venusaur,Gym Challenge,gym2-4,129.25,23,medium,705,42,low,8211,5,medium
+Psyduck,Wizards Black Star Promos,basep-20,101.28,15,medium,182.5,71,medium,1000,88,high
+Reshiram & Zekrom GX,Cosmic Eclipse,sm12-157,73.57,25,medium,64,80,medium,750,77,high
+M Rayquaza EX,Roaring Skies,xy6-61,99.72,10,low,382.48,47,low,4029,13,low
+M Charizard EX,Flashfire,xy2-108,146.5,6,low,1562.5,53,medium,9100,6,low
+Misty's Gyarados,Gym Challenge,gym2-13,96.25,23,medium,812.5,54,medium,4350,14,low
+Mewtwo EX,BREAKthrough,xy8-164,94.32,6,low,560,62,medium,4343.25,18,medium
+Gardevoir EX,Steam Siege,xy11-116,136.56,18,medium,210,84,medium,1900,46,medium
+Latias & Latios GX,Team Up,sm9-113,65.88,14,high,120,53,medium,600,109,medium
+Vaporeon VMAX,SWSH Black Star Promos,swshp-SWSH182,140.5,44,medium,106.75,106,medium,940,40,medium
+Rocket's Raikou ex,Deoxys,ex8-108,344.94,20,low,1010,50,medium,10549.5,10,low
+Tinkaton ex,Paldea Evolved,sv02-262,40,21,low,48.38,70,medium,199.53,97,medium
+Gyarados δ,Holon Phantoms,ex13-8,267.5,53,low,849.5,39,low,4950.14,15,low
+Mew ex,Holon Phantoms,ex13-100,227.5,10,medium,6705,34,low,11150,5,low
+Erika's Dragonair,Gym Heroes,gym1-4,58.34,34,medium,250,51,medium,2786,8,low
+Charmander,Base Set,base1-46,32,58,low,70,65,medium,399.5,25,medium
+M Alakazam EX,Fates Collide,xy10-118,31,7,low,169.99,46,low,910,49,medium
+Charizard EX,Flashfire,xy2-100,223.5,5,low,999.5,37,low,8999,9,low
+Alakazam,Base Set,base1-1,59.99,62,medium,323.75,16,low,3044.7,7,medium
+Nidoking,Aquapolis,ecard2-150,2082.5,7,low,3601.01,38,low,15602.25,6,low
+Umbreon,Neo Discovery,neo2-32,87.12,17,low,275.5,44,low,1692,19,low
+Golem,Skyridge,ecard3-148,325,5,low,545.06,44,low,2183,28,low
+Typhlosion ex,Sandstorm,ex2-99,102.5,10,medium,837,35,low,3850,11,low
+Ho-oh,Skyridge,ecard3-149,890,11,low,1337.5,42,low,5525,17,medium
+Jolteon,Jungle,base2-20,12.47,6,low,104.5,49,low,273.93,33,medium
+Greninja-GX,Yellow A Alternate,sma-SV56,56,12,medium,92.85,50,medium,233.43,101,medium
+Dark Gengar,Neo Destiny,neo4-6,540,10,medium,1789.75,37,low,14999.99,7,low
+Mewtwo δ,Delta Species,ex11-12,94.25,14,medium,1195.64,35,low,8900,15,medium
+Zoroark,White Flare,sv10.5w-143,44.99,15,low,52.5,92,medium,488,44,medium
+Absol,Triumphant,hgss4-91,76.5,5,low,1065,38,low,12499.99,29,low
+Charmander,Dragon,ex3-98,187,8,low,446.25,55,medium,2698.86,23,medium
+Jolteon VMAX,SWSH Black Star Promos,swshp-SWSH184,47,50,medium,110,83,medium,950,37,medium
+Scizor,Neo Discovery,neo2-10,143.26,22,medium,255,35,low,683.6,7,low
+Snorlax δ,Dragon Frontiers,ex15-10,146,13,low,470.5,46,low,6817.98,13,medium
+Charizard V,Champion's Path,swsh3.5-79,150,35,low,257.5,42,low,428.44,98,medium
+Marnie's Morpeko,SVP Black Star Promos,svp-206,49.14,18,low,69,70,medium,301.25,66,high
+Blastoise & Piplup GX,Cosmic Eclipse,sm12-38,98.84,11,low,115,66,medium,680,57,high
+Slowpoke & Psyduck GX,Unified Minds,sm11-35,175,26,low,174.5,57,medium,708.3,61,medium
+Raichu ex,Sandstorm,ex2-98,999,8,low,932.99,39,low,7550,15,high
+Pikachu EX,XY Black Star Promos,xyp-XY84,129.09,18,medium,760,37,low,7350,18,medium
+Machamp,Triumphant,hgss4-95,50,10,medium,549.5,54,medium,4000,35,medium
+Aerodactyl ex,Sandstorm,ex2-94,165.92,7,low,520,34,low,4000,22,medium
+Flareon V,SWSH Black Star Promos,swshp-SWSH179,105.99,30,medium,115.78,84,medium,1325,26,low
+Umbreon δ,Delta Species,ex11-17,875,14,low,1150,35,low,7000,12,low
+Dark Hypno,Team Rocket,base5-9,120,14,medium,222.68,53,medium,1955.5,9,high
+Unown [A],Neo Discovery,neo2-14,34,12,medium,160.1,36,low,636.5,12,medium
+Reshiram-GX,Yellow A Alternate,sma-SV51,34,21,medium,46.79,41,low,151.25,94,high
+Eevee,Yellow A Alternate,sma-SV41,44,17,medium,48.88,42,low,162.92,94,medium
+Venusaur ex,FireRed & LeafGreen,ex6-112,400,6,low,1326,38,low,8200,13,medium
+Charizard,SWSH Black Star Promos,swshp-SWSH066,86,22,medium,74.38,54,medium,277.79,74,medium
+Gardevoir ex,Sandstorm,ex2-96,465,8,low,774.98,51,medium,6899.99,10,low
+M Gengar EX,Phantom Forces,xy4-121,300,16,medium,1586.25,29,low,6970,5,low
+Giovanni's Machamp,Gym Challenge,gym2-6,36.95,13,low,324.05,47,low,1965.5,22,medium
+Mewtwo GX,Shining Legends,sm3.5-76,76.44,18,low,94.25,49,low,730,73,high
+Ursaring,Neo Discovery,neo2-15,21.41,6,low,297.25,59,medium,3050,11,low
+Greninja & Zoroark GX,Unbroken Bonds,sm10-107,35,13,low,73.25,47,low,261.38,77,medium
+Feraligatr δ,Dragon Frontiers,ex15-2,203.5,10,low,427,28,low,4275,11,high
+Palkia & Dialga LEGEND,Triumphant,hgss4-101,250,7,low,322,44,low,3650,20,high
+Mega Feraligatr ex,Ascended Heroes,me02.5-274,125,7,medium,127.5,32,low,299.94,92,high
+Brock's Ninetales,Gym Challenge,gym2-3,110,12,high,289,45,low,2012.5,25,medium
+Dark Blastoise,Legendary Collection,lc-4,171.75,14,medium,337.5,28,low,1807.5,10,high
+Steven's Metagross ex,Ascended Heroes,me02.5-289,95,10,low,76.5,34,low,260,86,high
+Espeon ex,Unseen Forces,ex10-102,30,7,low,3950.5,18,low,30999,5,low
+Gardevoir & Sylveon GX,Unbroken Bonds,sm10-205,1000,8,low,1189.15,51,medium,4825,60,medium
+Typhlosion δ,Dragon Frontiers,ex15-12,77.5,18,medium,282.5,27,low,1750.9,5,low
+Espeon & Deoxys GX,Unified Minds,sm11-72,125,15,low,72.5,56,medium,744.44,56,high
+Chandelure,White Flare,sv10.5w-103,57.5,8,low,60.75,43,low,322.5,75,medium
+Charizard GX,Burning Shadows,sm3-150,400,11,medium,977.5,45,low,7100,20,low
+Dragonite δ,Delta Species,ex11-3,112.5,9,low,1349.5,25,low,5974.5,20,low
+Magikarp & Wailord GX,Team Up,sm9-161,2507.5,16,low,1485,31,low,4048.58,70,high
+Regirock Star,Legend Maker,ex12-91,935,5,low,3300,19,low,16000,6,low
+Special Delivery Bidoof,SWSH Black Star Promos,swshp-SWSH177,1445,7,low,690,65,medium,3950,35,high
+Groudon,Hidden Legends,ex5-102,305,10,low,293,51,medium,2137.5,26,medium
+Charmeleon,Base Set,base1-24,17.27,25,medium,306.74,29,low,468.23,11,medium
+M Sceptile EX,Ancient Origins,xy7-85,81,15,low,198.75,38,low,1500,36,high
+Registeel Star,Legend Maker,ex12-92,1039.5,10,low,3178.5,26,low,21500,5,low
+Kabutops,Skyridge,ecard3-150,212.5,5,low,2003,35,low,8600,19,low
+Salamence ex,Power Keepers,ex16-96,119,5,low,613.12,28,low,6025,10,medium
+Hypno,Fossil,base3-8,100,15,medium,229.09,28,low,1388.97,6,high
+Lt. Surge's Raichu,Gym Challenge,gym2-11,185,14,medium,371.75,35,low,850,16,medium
+Rayquaza δ,Delta Species,ex11-13,501.25,16,low,1749.99,37,low,8525.45,9,low
+Pikachu,Black & White,bw1-115,165.31,7,low,525,40,low,4112.48,23,medium
+Koga's Ditto,Gym Challenge,gym2-10,63.67,10,medium,337.94,40,low,2025,14,medium
+Giratina EX,Ancient Origins,xy7-93,53,5,low,409.99,35,low,1927,38,medium
+Dragonite VSTAR,Pokémon GO,swsh10.5-081,33.25,8,low,55,26,low,150,82,medium
+Lucky Stadium,Wizards Black Star Promos,basep-41,1724.99,19,low,2723.3,26,low,7450,25,high
+Giovanni's Nidoking,Gym Challenge,gym2-7,59.5,15,medium,400,32,low,2124.57,12,medium
+Togepi & Cleffa & Igglybuff GX,Cosmic Eclipse,sm12-143,15,14,low,58.65,57,medium,395.3,47,medium
+Piplup,Cosmic Eclipse,sm12-239,66,20,low,81.25,53,medium,552.5,31,medium
+Dragonite GX,SM Black Star Promos,smp-SM156,89,6,low,105.54,37,low,490.5,63,medium
+Darkrai & Cresselia LEGEND,Triumphant,hgss4-99,189.12,5,low,655,23,low,5749.98,7,medium
+Metagross ex,Power Keepers,ex16-95,101.14,5,medium,440,26,low,3775,12,low
+Dark Golbat,Team Rocket,base5-7,52.61,13,medium,175.25,39,low,1432.5,5,low
+Articuno,Supreme Victors,pl3-148,509.99,9,medium,1567.99,13,low,12372,5,low
+Kingdra ex,Dragon,ex3-92,261,10,low,378.03,36,low,3999.99,12,medium
+Blastoise,Plasma Storm,bw8-137,224.78,5,low,1228.33,24,low,12250,5,low
+Blastoise & Piplup GX,Cosmic Eclipse,sm12-215,243.5,15,medium,531.44,61,medium,3025,34,medium
+Dark Celebi,Hidden Legends,ex5-4,42.08,12,low,442.07,28,low,2500,7,low
+Gengar,SWSH Black Star Promos,swshp-SWSH241,108.12,19,medium,96,54,medium,705,30,high
+M Tyranitar EX,Ancient Origins,xy7-92,168.62,6,low,194.65,32,low,945,39,high
+Leafeon-GX,Yellow A Alternate,sma-SV46,65,9,low,57.5,34,low,275,67,high
+Celebi,Neo Revelation,neo3-3,64.88,15,medium,512.5,27,low,3150,7,medium
+Groudon ex,Crystal Guardians,ex14-93,140.5,13,low,1267.5,25,low,8900,5,low
+Charizard,Legendary Collection,lc-3,166.25,9,medium,1187.5,13,low,5085,9,high
+Darkrai & Cresselia LEGEND,Triumphant,hgss4-100,2193,5,low,587.5,32,low,3799.5,8,medium
+Krookodile,Black Bolt,sv10.5b-137,59.99,15,low,71.08,50,medium,599.99,39,high
+Rayquaza ex δ,Dragon Frontiers,ex15-97,217.5,9,low,2882.88,25,low,20133.51,9,medium
+Magmar ex,Ruby & Sapphire,ex1-100,68.42,13,low,400.5,31,low,2824.99,7,low
+Moltres,Supreme Victors,pl3-149,1701,12,low,1376.88,19,low,3325,5,low
+M Gyarados EX,BREAKpoint,xy9-27,57.62,5,low,112.62,27,low,1150.5,16,medium
+Erika's Clefable,Gym Heroes,gym1-3,38.25,16,medium,269.5,34,low,2313,10,high
+Groudon Star,Delta Species,ex11-111,835,6,low,5300,16,low,4616.78,6,medium
+Gengar & Mimikyu GX,Team Up,sm9-165,1550,14,medium,2688.1,30,low,7900,53,medium
+Sabrina's Gengar,Gym Challenge,gym2-29,173.61,15,medium,488.5,26,low,3591.25,6,high
+Tyranitar δ,Delta Species,ex11-16,145,10,low,463.48,31,low,2626,14,medium
+Eevee & Snorlax GX,Team Up,sm9-120,112.5,7,low,124.46,38,low,690,45,high
+Meganium,Neo Genesis,neo1-10,113.93,8,low,223.67,12,low,2065.62,9,medium
+Mew EX,XY Black Star Promos,xyp-XY126,212,11,medium,1367.5,15,low,11300,5,low
+Deoxys δ,Holon Phantoms,ex13-6,392.91,8,low,577.49,27,low,3049.5,8,low
+Pikachu,Pokémon Rumble,ru1-7,682.5,5,medium,8999.5,19,low,52000,5,low
+Mewtwo,Wizards Black Star Promos,basep-12,128,10,medium,362.5,10,low,2673.01,13,medium
+Magcargo ex,Dragon,ex3-95,21.39,5,low,270,29,low,1709.5,18,low
+Rayquaza C,Supreme Victors,pl3-8,142.75,5,low,789,22,low,4654.4,11,medium
+Slowking,Undaunted,hgss3-85,169.3,5,low,710,22,low,8050,7,low
+Dark Tyranitar,Neo Destiny,neo4-11,175,10,low,1604.36,22,low,15742.22,7,low
+Lugia LEGEND,HeartGold SoulSilver,hgss1-113,200,10,low,848.12,9,low,8667.38,11,medium
+Latios δ,Delta Species,ex11-9,136.75,5,low,740.49,29,low,3600,16,low
+Slowpoke & Psyduck GX,Unified Minds,sm11-218,246.5,7,low,450,34,low,2400,43,medium
+Shiftry ex,Power Keepers,ex16-97,130.05,5,low,162.5,33,low,1200.5,8,low
+Mew,Holon Phantoms,ex13-111,506.51,7,low,204.5,32,low,1425,6,low
+Rosa's Encouragement,Perfect Order,me03-123,38.24,11,low,59,22,low,201.5,67,high
+Wartortle,Southern Islands,si1-15,75.59,7,low,195.59,32,low,677.5,17,medium
+Arceus & Dialga & Palkia GX,Cosmic Eclipse,sm12-221,409.46,10,medium,760.75,36,low,4050,37,medium
+Lugia,Neo Revelation,neo3-20,381.25,10,low,483.75,38,low,1289.57,9,low
+Latias & Latios GX,Team Up,sm9-170,2700,16,medium,5324.99,27,low,11782.9,32,high
+Latios ex δ,Dragon Frontiers,ex15-96,705.75,7,low,1062.5,17,low,8850,6,low
+Skarmory ex,Power Keepers,ex16-98,37.99,6,low,255,29,low,1537.5,9,low
+Celebi & Venusaur GX,Team Up,sm9-1,51.59,9,low,53.5,33,low,384.5,40,high
+Ho-Oh ex,Unseen Forces,ex10-104,335.25,6,low,1650,26,low,6125,6,low
+Charizard,Boundaries Crossed,bw7-20,49.5,13,low,661.89,24,low,4149.64,5,low
+Tyranitar EX,Ancient Origins,xy7-91,152.5,6,low,240,40,low,1400,17,medium
+Blaziken ex,Crystal Guardians,ex14-90,206.25,5,low,824.99,20,low,6075,6,low
+Mega Sableye & Tyranitar GX,Unified Minds,sm11-226,385.5,23,high,395.25,41,low,2589.57,36,high
+Rocket's Moltres ex,Team Rocket Returns,ex7-100,350,7,low,1767.91,27,low,8999.99,10,medium
+Latias δ,Delta Species,ex11-8,129,5,low,498.22,22,low,4005.33,16,low
+Mew,Wizards Black Star Promos,basep-47,47.68,15,medium,325,16,low,2550,15,medium
+Pikachu,Base Set,base1-58,155,63,medium,637.5,13,low,1333.35,10,medium
+Moltres ex,FireRed & LeafGreen,ex6-115,200,5,low,805.99,17,low,12500,11,low
+Dialga G,Platinum,pl1-122,68,6,low,760,23,low,6650,5,low
+Salamence ex δ,Dragon Frontiers,ex15-98,281.25,14,medium,1050,15,low,5400,5,low
+Ninetales ex,Hidden Legends,ex5-96,220,7,low,815,24,low,5119.5,8,low
+Vaporeon δ,Delta Species,ex11-18,165,11,low,444.95,26,low,2163,17,medium
+Mimikyu,Cosmic Eclipse,sm12-245,66.06,10,medium,76.5,39,low,1000,30,medium
+Deoxys δ,Holon Phantoms,ex13-3,150.37,9,low,290.5,27,low,2213,11,medium
+Mewtwo & Mew GX,Unified Minds,sm11-242,150,6,low,442.5,27,low,1700,42,low
+Dragonite,Wizards Black Star Promos,basep-5,64.38,48,medium,199.99,22,low,1625,11,low
+Espeon,Neo Discovery,neo2-20,45,10,low,111,29,low,544.25,11,high
+Rocket's Scyther ex,Team Rocket Returns,ex7-102,535,6,low,980,20,low,12000,8,medium
+Claydol ex,Power Keepers,ex16-93,80.97,7,low,254.91,26,low,2000,11,low
+Dark Feraligatr,Neo Destiny,neo4-5,71.25,5,medium,233.62,29,low,1299.97,5,low
+M Lucario EX,Furious Fists,xy3-55,124.38,6,low,86.7,28,low,870,17,medium
+Deoxys δ,Holon Phantoms,ex13-5,89.25,5,low,792.87,27,low,10000,6,low
+Psyduck,Aquapolis,ecard2-104,134,8,medium,750,34,low,9495,12,low
+Dark Scizor,Neo Destiny,neo4-9,130,9,low,825.76,16,low,3056.26,11,medium
+Reshiram & Zekrom GX,Cosmic Eclipse,sm12-259,218.75,5,low,232.94,21,low,640,36,high
+Mewtwo δ,Holon Phantoms,ex13-24,69.4,5,low,211.82,28,low,1469.44,10,medium
+Umbreon GX,Sun & Moon,sm1-154,145.53,14,low,135.25,32,low,890,18,low
+Scyther,Wizards Black Star Promos,basep-45,69.3,8,medium,90,28,low,275.62,26,high
+Salamence,Dragon,ex3-10,300,7,low,445,18,low,2250,35,low
+Crobat,Skyridge,ecard3-147,345,6,low,3450,21,low,7000,5,low
+Rowlet & Alolan Exeggutor GX,Unified Minds,sm11-215,140,7,low,165.18,32,low,1000,31,medium
+Rapidash,Wizards Black Star Promos,basep-51,63.01,8,low,130,13,low,465,19,medium
+Deoxys,Emerald,ex9-2,139.28,5,low,734.69,22,low,5700,10,low
+Raichu & Alolan Raichu GX,Unified Minds,sm11-221,309.98,9,low,454.5,28,low,2449.41,27,high
+Ho-oh,Wizards Black Star Promos,basep-52,112.5,6,low,144.5,22,low,1125,20,medium
+Dark Typhlosion,Neo Destiny,neo4-10,20.5,6,low,382,26,low,799.99,5,low
+Charizard G,Supreme Victors,pl3-20,45,7,low,187.22,19,low,2250,14,medium
+Ash's Pikachu,SM Black Star Promos,smp-SM109,285,15,low,291.13,20,low,2517.5,6,low
+Champions Festival,SM Black Star Promos,smp-SM231,228.75,6,low,625,29,low,1237.5,16,medium
+Dark Marowak,Team Rocket Returns,ex7-7,26.99,6,low,557.9,20,low,1326.6,13,low
+Blastoise & Piplup GX,Cosmic Eclipse,sm12-253,77.35,5,low,203.75,31,low,410,19,medium
+Gyarados,Skyridge,ecard3-H10,3800,7,low,4450,12,low,19995,27,medium
+Jolteon,Sandstorm,ex2-6,145,5,low,349,25,low,1739.31,5,low
+Tyranitar,Neo Discovery,neo2-31,83.75,10,low,89.99,17,low,1010,6,medium
+Gengar & Mimikyu GX,Team Up,sm9-186,524.5,7,low,602.5,20,low,2420,31,high
+Machamp,Wizards Black Star Promos,basep-43,49.99,11,low,190.17,25,low,503.5,13,medium
+Arcanine,Base Set,base1-23,104.95,7,low,78.25,21,low,235,5,low
+Swampert ex,Team Magma vs Team Aqua,ex4-95,200,6,low,717.5,10,low,8187.5,6,medium
+Ditto,XY Black Star Promos,xyp-XY40,276.25,9,low,250,3,low,1675,8,low
+Misty’s Favor,Unified Minds,sm11-235,324.5,5,low,407,19,low,898.63,28,low
+Mega Froslass ex,Ascended Heroes,me02.5-275,70,8,low,86.5,12,low,225,39,high
+Red & Blue,Cosmic Eclipse,sm12-234,2,5,low,249.5,14,low,718.35,33,high
+Lugia GX,Lost Thunder,sm8-207,200.42,6,low,225.78,20,low,1500,15,low
+Reshiram & Zekrom GX,Cosmic Eclipse,sm12-222,475.84,7,medium,460.38,24,low,2574.99,13,low
+Solgaleo & Lunala GX,Cosmic Eclipse,sm12-216,330.12,6,low,331.38,31,low,2300,15,medium
+Reshiram & Charizard GX,Unbroken Bonds,sm10-217,195,8,low,180,19,low,625,21,medium
+Umbreon GX,SM Black Star Promos,smp-SM36,200.08,13,medium,404,15,low,4652.49,5,medium
+Snorlax,SVP Black Star Promos,svp-051,25,20,low,280,22,low,1675.51,19,high
+Greninja & Zoroark GX,Unbroken Bonds,sm10-201,814.38,8,low,372.5,19,low,1637.85,26,medium
+Zapdos,Aquapolis,ecard2-H32,1366,7,low,1624.97,8,low,9249.99,8,medium
+Pikachu,SM Black Star Promos,smp-SM98,79,7,medium,511,20,low,3826.39,6,low
+Ash's Pikachu,SM Black Star Promos,smp-SM111,45,8,low,177.08,16,low,3083,10,low
+Reshiram,Black & White,bw1-113,71,8,low,283.11,16,low,1995.08,14,low
+Ash's Pikachu,SM Black Star Promos,smp-SM110,38,13,low,105.71,18,low,1075,5,low
+Dark Hypno,Team Rocket Returns,ex7-6,50.15,7,low,138.96,12,low,1087.82,11,low
+Ash's Pikachu,SM Black Star Promos,smp-SM113,503.78,9,low,119.38,16,low,1019.7,10,high
+Cynthia & Caitlin,Cosmic Eclipse,sm12-228,183.6,7,low,199,14,low,402.5,18,low
+Sylveon GX,Guardians Rising,sm2-158,109.01,6,medium,214.37,21,low,960,16,medium
+Charizard & Braixen GX,Cosmic Eclipse,sm12-251,135.38,7,low,125.4,22,low,440,18,low
+Sabrina,Gym Challenge,gym2-20,107.5,5,medium,216.76,12,low,1284.99,9,high
+Eevee & Snorlax GX,Team Up,sm9-191,330,5,low,346,16,low,1425.5,21,medium
+Pikachu & Zekrom GX,Team Up,sm9-184,35.9,5,low,250,11,low,999,25,medium
+Suicune,Neo Revelation,neo3-27,93.49,5,low,100,13,low,1000,11,low
+Dark Dragonite,Team Rocket Returns,ex7-15,123.25,5,low,233.74,8,low,1500,10,low
+Lisia,Celestial Storm,sm7-164,127.5,6,low,248.39,10,low,514.89,17,high
+Suicune,Wizards Black Star Promos,basep-53,43,8,medium,255,9,low,520.5,7,low
+Raikou,Skyridge,ecard3-H26,710.33,5,low,1682,9,low,5115.01,7,medium
+Flygon,Dragon,ex3-4,41.25,5,low,170,17,low,1505.13,6,low
+Meowth,Noble Victories,bw3-102,67.51,5,low,269.99,14,low,2349,5,low
+Forretress,Neo Discovery,neo2-2,92.88,5,low,73.45,6,low,509.15,5,medium
+Electabuzz,Base Set,base1-20,1,8,medium,100.53,11,low,465,5,low
+Ivysaur,Southern Islands,si1-5,40.8,5,medium,134.75,15,low,373.12,9,medium
+Greninja & Zoroark GX,Unbroken Bonds,sm10-200,129.62,5,low,76.6,8,low,263.5,20,low
+Mega Lopunny & Jigglypuff GX,Cosmic Eclipse,sm12-226,178.5,8,low,241.66,10,low,1200,12,low
+Pikachu & Zekrom GX,Team Up,sm9-162,188.88,10,medium,187,7,low,975,17,medium
+Greninja GX,Forbidden Light,sm6-133,62.9,7,low,140,9,low,515,13,medium
+Vileplume GX,Cosmic Eclipse,sm12-211,249.99,7,low,132,13,low,432.5,11,low
+Slowbro,FireRed & LeafGreen,ex6-14,88,5,low,243.75,10,low,1697,7,low
+Light Jolteon,Neo Destiny,neo4-48,74,5,low,180,7,low,770,6,medium
+Lugia,SWSH Black Star Promos,swshp-SWSH069,309.92,7,low,273.12,5,low,1012.5,14,low
+Mewtwo & Mew GX,Unified Minds,sm11-222,89.99,11,medium,249.99,7,low,689.99,12,low
+Glaceon GX,Ultra Prism,sm5-159,82.5,5,low,70.72,7,low,297,11,low
+Charizard,SM Black Star Promos,smp-SM158,123.75,12,low,1207.48,11,low,6685.25,8,low
+Garchomp & Giratina GX,Unified Minds,sm11-247,84.15,7,low,137,8,low,520,12,low
+Gardevoir & Sylveon GX,Unbroken Bonds,sm10-204,70,5,low,87.5,5,low,353.5,13,high
+Gengar & Mimikyu GX,Team Up,sm9-164,394.61,19,high,475,9,low,1474.99,6,low
+Marshadow & Machamp GX,Unbroken Bonds,sm10-221,48,5,low,87.49,5,low,350,12,low
+Mega Darkrai ex,Pitch Black,me05-116,329.64,14,high,355,1,low,1562.5,12,medium
+Dragonite GX,Unified Minds,sm11-229,119,6,low,50,1,low,375,8,low
