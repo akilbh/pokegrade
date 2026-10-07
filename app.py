@@ -1,13 +1,14 @@
 import mysql.connector
 from pymongo import MongoClient
 import pandas as pd
+import pprint
 
 connection = mysql.connector.connect(
     host="10.150.16.50",
     port=3306,
     user="DSKI25A1_User23",
     password="s%xMVmjakl8N5p",
-    database="DSKI25A1_User23_pokegrade",
+    database="DSKI25A1_User23_pokegrade"
 )
 
 client = MongoClient(
@@ -15,6 +16,7 @@ client = MongoClient(
     port=27017,
     username="DSKI25A1_DB_User15",
     password="kyLeFcjydJz8",
+    authSource="DSKI25A1_DB_User15"
 )
 
 db = client["DSKI25A1_DB_User15"]
@@ -30,3 +32,7 @@ connection.close()
 
 df = pd.DataFrame(rows, columns=columns)
 print(df.head())
+
+collection = db["Grading submissions"]
+
+pprint.pprint(collection.find_one())
